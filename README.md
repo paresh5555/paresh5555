@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @paresh5555
-- 👀 I’m interested in building new fullstack WebSites mostly using react.
-- 🌱 I’m currently learning Machine Learning as well as Artificial Intelligence.
-- 💞️ I’m looking to collaborate on any new ML AI projects, backend or maybe frontend.
+- 👀 I’m interested in building Machine Learning as well as Artificial Intelligence models.
+- 🌱 I’m currently learning more of data analysis, exploration.
+- 💞️ I’m looking to collaborate on any new ML AI projects.
 - 📫 How to reach me paresh.patil.ug20@nsut.ac.in
 
 <!---
